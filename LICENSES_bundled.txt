@@ -1,0 +1,9 @@
+This repository contains resources that were created based on some compatibly licenced repositories. We list these here:
+
+Name: Numpydoc
+Files: Numpy*
+License: 2-clause BSD
+
+Name: pandas
+Files: Pandas*
+License: BSD 3-Clause License
